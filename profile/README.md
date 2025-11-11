@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://cyberwave.com/cyberwave-logo-white.svg" alt="Cyberwave" width="300">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cyberwave.com/cyberwave-logo-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cyberwave.com/cyberwave-logo-black.svg">
+    <img src="https://cyberwave.com/cyberwave-logo-white.svg" alt="Cyberwave" width="300">
+  </picture>
 </p>
 
 **Software-Defined Robotics Platform**
