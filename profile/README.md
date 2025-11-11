@@ -22,16 +22,16 @@ The platform enables recomposable automation architectures where robotic capabil
     <tr>
         <td align="center"><a href="https://github.com/cyberwave-os/cyberwave-python">cyberwave-python</a></td>
         <td>The official Python SDK for Cyberwave. Create, control, and simulate robotics with ease. <br>Simple Python imports connect to our universal robot catalog for instant automation.</td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/cyberwave-os/cyberwave-python?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/cyberwave-os/cyberwave-python?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://badgen.net/github/stars/cyberwave-os/cyberwave-python"/></td>
+        <td><img alt="Forks" src="https://badgen.net/github/forks/cyberwave-os/cyberwave-python"/></td>
     </tr>
     <tr><th colspan="4" align="center">EDGEs</th></tr>
     <tr><th>Title</th><th>Description</th><th>Stars</th><th>Forks</th></tr>
     <tr>
         <td align="center"><a href="https://github.com/cyberwave-os/cyberwave-edge-python">cyberwave-edge-python</a></td>
         <td>Simple, open-source edge software to integrate sensors (like cameras) and USB robots <br>(like the SO-100) to Cyberwave, written in Python. Enables edge AI inference and <br>local robot control with cloud synchronization.</td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/cyberwave-os/cyberwave-edge-python?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/cyberwave-os/cyberwave-edge-python?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://badgen.net/github/stars/cyberwave-os/cyberwave-edge-python"/></td>
+        <td><img alt="Forks" src="https://badgen.net/github/forks/cyberwave-os/cyberwave-edge-python"/></td>
     </tr>
     </tbody>
 </table>
@@ -57,4 +57,3 @@ The platform enables recomposable automation architectures where robotic capabil
 <p align="center">
   © 2025 Cyberwave S.p.a.
 </p>
-
