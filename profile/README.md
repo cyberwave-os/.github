@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cyberwave.com/cyberwave-logo-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cyberwave.com/cyberwave-logo-black.svg">
-    <img src="https://cyberwave.com/cyberwave-logo-white.svg" alt="Cyberwave" width="300">
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/brand/cyberwave-logo-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="../assets/brand/cyberwave-logo-black.svg">
+    <img src="../assets/brand/cyberwave-logo-black.svg" alt="Cyberwave" width="300">
   </picture>
 </p>
 
@@ -43,6 +43,7 @@ The platform enables recomposable automation architectures where robotic capabil
 ---
 ## Resources
 
+- [Brand Assets and Badges](../assets/brand/README.md) - Logos, theme-aware README markup, and Shields.io usage
 - [Platform Overview](https://cyberwave.com/technology) - Platform architecture and technical specifications
 - [Digital Twin Engine](https://cyberwave.com/technology/capabilities/digital-twin) - Simulation engine and physics models
 - [Edge AI Inference](https://cyberwave.com/technology/capabilities/edge-ai) - Edge runtime and distributed inference
